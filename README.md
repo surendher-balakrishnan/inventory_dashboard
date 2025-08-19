@@ -88,7 +88,7 @@ flutter run
 
 ## 📸 Screenshots
 
-<img src="lib/assets/screenshots/add_product.jpg" width="400"/>
+<img src="lib/assets/screenshots/dashboard.jpg" width="400"/>
 <img src="lib/assets/screenshots/add_product.jpg" width="400"/>
 <img src="lib/assets/screenshots/drawer.jpg" width="400"/>
 <img src="lib/assets/screenshots/products.jpg" width="400"/>
