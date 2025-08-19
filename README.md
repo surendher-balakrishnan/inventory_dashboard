@@ -88,17 +88,10 @@ flutter run
 
 ## 📸 Screenshots
 
-### Dashboard
-![Dashboard Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/dashboard.jpg?raw=true)
-
-### Add Product
-![Add Product Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/add_product.jpg?raw=true)
-
-### Drawer
-![Drawer Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/drawer.jpg?raw=true)
-
-### Products
-![Products Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/products.jpg?raw=true)
+<img src="lib/assets/screenshots/dashboard.jpg" width="400"/>
+<img src="lib/assets/screenshots/add_product.jpg" width="400"/>
+<img src="lib/assets/screenshots/drawer.jpg" width="400"/>
+<img src="lib/assets/screenshots/products.jpg" width="400"/>
 FakeStoreAPI
 
 Only GET is fully implemented.
