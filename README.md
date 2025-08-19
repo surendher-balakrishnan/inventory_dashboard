@@ -89,18 +89,16 @@ flutter run
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](assets/dashboard.jpg)
+![Dashboard Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/dashboard.jpg?raw=true)
 
 ### Add Product
-![Add Product Screenshot](assets/add_product.jpg)
+![Add Product Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/add_product.jpg?raw=true)
 
 ### Drawer
-![Drawer Screenshot](assets/drawer.jpg)
+![Drawer Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/drawer.jpg?raw=true)
 
 ### Products
-![Products Screenshot](assets/products.jpg)
-
----
+![Products Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/products.jpg?raw=true)
 
 🔗 API
 
