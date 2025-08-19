@@ -88,10 +88,10 @@ flutter run
 
 ## 📸 Screenshots
 
-<img src="lib/assets/screenshots/dashboard.jpg" width="400"/>
-<img src="lib/assets/screenshots/add_product.jpg" width="400"/>
-<img src="lib/assets/screenshots/drawer.jpg" width="400"/>
-<img src="lib/assets/screenshots/products.jpg" width="400"/>
+<img src="lib/assets/screenshots/dashboard.jpg" width="150"/>
+<img src="lib/assets/screenshots/add_product.jpg" width="150"/>
+<img src="lib/assets/screenshots/drawer.jpg" width="150"/>
+<img src="lib/assets/screenshots/products.jpg" width="150"/>
 FakeStoreAPI
 
 Only GET is fully implemented.
