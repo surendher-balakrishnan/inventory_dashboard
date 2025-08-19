@@ -86,7 +86,7 @@ flutter run
 
 📸 Screenshots
 
-![Dashboard](assets/screenshots/add_product.jpg)
+![Dashboard](assets/screenshots/add_product.png)
 🔗 API
 
 FakeStoreAPI
