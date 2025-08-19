@@ -86,7 +86,7 @@ flutter run
 
 📸 Screenshots
 
-add_product: lib/assets/add_product.jpg
+add_product: (lib/assets/add_product.jpg)
 dashboard: lib/assets/dashboard.jpg
 drawer: lib/assets/drawer.jpg
 products: lib/assets/products.jpg
