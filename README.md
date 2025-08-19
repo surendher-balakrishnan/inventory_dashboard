@@ -86,20 +86,7 @@ flutter run
 
 📸 Screenshots
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/dashboard.jpg?raw=true)
-
-### Add Product
-![Add Product Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/add_product.jpg?raw=true)
-
-### Drawer
-![Drawer Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/drawer.jpg?raw=true)
-
-### Products
-![Products Screenshot](https://github.com/surendher-balakrishnan/inventory_dashboard/blob/master/assets/products.jpg?raw=true)
-
+![Dashboard](assets/screenshots/add_product.jpg)
 🔗 API
 
 FakeStoreAPI
