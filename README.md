@@ -91,9 +91,14 @@ flutter run
 ### Dashboard
 ![Dashboard Screenshot](assets/dashboard.jpg)
 
-### Login Page
-![Login Screenshot](assets/add_product.jpg)
+### Add Product
+![Add Product Screenshot](assets/add_product.jpg)
 
+### Drawer
+![Drawer Screenshot](assets/drawer.jpg)
+
+### Products
+![Products Screenshot](assets/products.jpg)
 
 ---
 
