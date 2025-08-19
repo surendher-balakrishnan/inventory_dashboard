@@ -86,7 +86,10 @@ flutter run
 
 📸 Screenshots
 
-(Add your screenshots here once you run the app: Dashboard, Products table, Add/Edit form)
+add_product: lib/assets/add_product.jpg
+dashboard: lib/assets/dashboard.jpg
+drawer: lib/assets/drawer.jpg
+products: lib/assets/products.jpg
 
 
 ---
