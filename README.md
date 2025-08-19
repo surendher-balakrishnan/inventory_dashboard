@@ -86,7 +86,13 @@ flutter run
 
 📸 Screenshots
 
-[Dashboard Screenshot] (assets/add_product.jpg)
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard Screenshot](assets/dashboard.jpg)
+
+### Login Page
+![Login Screenshot](assets/add_product.jpg)
 
 
 ---
